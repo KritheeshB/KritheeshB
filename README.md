@@ -1,6 +1,6 @@
 # Hi, I'm Kritheesh 👋
 
-2nd year Production Engineering student at NIT Trichy, 
+3rd year Production Engineering student at NIT Trichy, 
 interested in Data Analytics.
 
 ## Skills
